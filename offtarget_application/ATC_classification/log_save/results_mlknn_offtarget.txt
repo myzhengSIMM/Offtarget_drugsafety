@@ -1,0 +1,3 @@
+test_rank loss: mean is 0.377082, std is 0.006244.
+test_average precision: mean is 0.375647, std is 0.009315.
+test_roc_auc: mean is 0.609418, std is 0.009057.
