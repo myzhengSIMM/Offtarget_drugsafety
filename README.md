@@ -1,5 +1,5 @@
 # Offtarget_drugsafety
-code for "In Silico Prediction of Drug Off-Target Profiles for Enhanced Drug Safety Assessment"
+code for "In Silico Off-Target Profiling for Enhanced Drug Safety Assessment"
 
 Below are the instructions for training models, predicting off-target profiles, applying these predictions, and setting up the required environment.
 
