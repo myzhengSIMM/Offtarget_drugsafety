@@ -14,7 +14,7 @@ To train the off-target profile prediction model, execute the following script:
 ```
 bash ./drugsafety/train.sh
 ```
-This script retrains the model for seven types of targets. Here we used the kinases dataset to demonstrate the training process of our model. The trained model parameters are is now available freely at https://drive.google.com/drive/folders/14eQVdXwSeLXOPG2lG06509Ory7had2tN?usp=sharing, user can download directly into the './drugsafety/predict/results' folder.
+This script retrains the model for seven types of targets. Here we used the kinases dataset to demonstrate the training process of our model. The trained model parameters are is now available freely at https://drive.google.com/drive/folders/14eQVdXwSeLXOPG2lG06509Ory7had2tN?usp=sharing, user can download directly into the './drugsafety/results' folder.
 
 ### 2.Predict off-target profile of compounds
 
